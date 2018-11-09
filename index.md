@@ -3,7 +3,7 @@ title: See, I can chage the title!!!
 description: The Subtitle
 ---
 
-![MyPicture](
+![MyPicture](Wheelock_Blake.jpg)
 
 Here is some stuff I've created:
 - [Time Series Analysis](/timeseries/index.md)
