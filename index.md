@@ -1,6 +1,5 @@
 ---
-title: See, I can change the title!!!
-description: This is the subtitle on the webpage
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
